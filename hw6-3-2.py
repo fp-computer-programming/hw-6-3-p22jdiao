@@ -2,7 +2,7 @@
 
 num = input("give me a list of numbers: ")
 
-li = list(num)
+li = num.split()
 
 li2 = li.copy()
 
